@@ -151,6 +151,11 @@ const calendarDescriptions = {
     he: "סדר שבועי ללימוד תנ\"ך שבו נלמדים בכל שבוע חמישה מתוך 929 פרקי התנ\"ך. הלומדים בדרך זו מסיימים את קריאת התנ\"ך כולו כעבור שלוש שנים וחצי.",
     enSubtitle: "Tanakh",
   },
+  "Nach Yomi": {
+    en: "A learning program learning one chapter of Neviim or Ketuvim each day, completing it in about two years.",
+    he: "תוכנית לימוד של פרק אחד בנביאים או בכתובים מדי יום, המסתיימת תוך כשנתיים בערך.",
+    enSubtitle: "Tanakh",
+  },
   "Daily Mishnah": {
     en: "A program of daily learning in which participants study two Mishnahs (teachings) each day in order to finish the entire Mishnah in six years.",
     he: "סדר לימוד משנה שבמסגרתו נלמדות שתי משניות בכל יום. הלומדים בדרך זו מסיימים את קריאת המשנה כולה כעבור שש שנים."
